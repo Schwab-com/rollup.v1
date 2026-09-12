@@ -43,7 +43,7 @@
     "chai-as-promised": "^7.1.1",
     "concurrently": "^5.2.0",
     "solidity-coverage": "^0.7.4",
-    "eth-gas-reporter": "^0.2.16",
+    "eth-gas-reporter": "^0.2.27",
     "ethereumjs-util": "^6.2.0",
     "ethereumjs-wallet": "0.6.2",
     "ethers": "^4.0.46",
